@@ -1,0 +1,3 @@
+[submodule "src/lib/vcdvcd"]
+	path = src/lib/vcdvcd
+	url = https://github.com/cirosantilli/vcdvcd.git
